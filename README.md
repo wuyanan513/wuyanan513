@@ -1,7 +1,7 @@
 # Biography
 
  - Yanan Wu/Male/1993
- - PhD Student (Supervised by Professor Qi:http://faculty.neu.edu.cn/qisl/zh_CN/index.htm)/ Northeastern University (China)
+ - PhD Student (Supervised by Professor Qi:http://faculty.neu.edu.cn/qisl/zh_CN/index.htm )/Northeastern University (China)
  - Github：http://github.com/wuyanan513
 # Interest
 Biomedical image analysis; Biomedical signal processing; Deep Learning: Machine Learning; Few-shot Learning
