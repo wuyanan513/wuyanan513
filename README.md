@@ -1,6 +1,6 @@
 # Contact me
 
-- Email：wuyan513@gmail.com
+- Email：wuyanan513@gmail.com
 
 # Biography
 
