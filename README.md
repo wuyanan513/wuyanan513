@@ -1,7 +1,3 @@
-# Contact me
-
-- Email：wuyanan513@gmail.com
-
 # Biography
 
  - Yanan Wu/Male/1993
@@ -17,3 +13,7 @@ Biomedical image analysis; Biomedical signal processing; Deep Learning: Machine 
 - [2021/11] Wu Y, Qi S, Sun Y, et al. A vision transformer for emphysema classification using CT images[J]. Physics in Medicine & Biology, 2021, 66(24): 245016.
 - [2020/12] He B, Li W, Zhang X, Wu Y, et al. The analysis of how apnea influences the autonomic nervous system using short-term heart rate variability indices[J]. Journal of Healthcare Engineering, 2020.
 - [2020/05] Wu Y, Liu J, He B, et al. Adaptive filtering improved apnea detection performance using tracheal sounds in noisy environment: a simulation study[J]. BioMed Research International, 2020.
+
+# Contact me
+
+- Email：wuyanan513@gmail.com
