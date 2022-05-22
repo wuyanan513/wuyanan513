@@ -4,7 +4,11 @@
  - PhD Student (Supervised by Professor Qi:http://faculty.neu.edu.cn/qisl/zh_CN/index.htm )/Northeastern University (China)
  - Github：http://github.com/wuyanan513
 # Interest
-Biomedical image analysis; Biomedical signal processing; Deep Learning: Machine Learning; Few-shot Learning
+ - Biomedical image analysis; 
+ - Biomedical signal processing; 
+ - Deep Learning: 
+ - Machine Learning; 
+ - Few-shot Learning
 
 # Paper
 - [2022/05] Wu Y, Qi S, et al. Attention-guided Multiple Instance Learning for COPD Identification: To Combine the Intensity and Morphology[J] Computers in Biology and Medicine journal, under review.
