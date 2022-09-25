@@ -1,7 +1,7 @@
 # Biography
 
  - Yanan Wu/Male
- - PhD Student 
+ - PhD Candidate
  
 # Interest
  - Biomedical image analysis; 
